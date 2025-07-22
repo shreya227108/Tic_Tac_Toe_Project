@@ -19,9 +19,9 @@ This project is a great example of beginner-level web development, focusing on D
 
 ## 📁 Project Structure
 tic-tac-toe/
-├── index.html # HTML layout for the game
-├── style.css # Styling and layout
-└── script.js # Game logic and DOM manipulation
+|-index.html # HTML layout for the game
+|-style.css # Styling and layout
+|-script.js # Game logic and DOM manipulation
 
 
 ---
